@@ -1,0 +1,6 @@
+C:\Users\Matthew\Documents\Visual Studio Works\Worksheet1\Worksheet1\bin\Debug\Worksheet1.exe.config
+C:\Users\Matthew\Documents\Visual Studio Works\Worksheet1\Worksheet1\obj\Debug\Worksheet1.csprojResolveAssemblyReference.cache
+C:\Users\Matthew\Documents\Visual Studio Works\Worksheet1\Worksheet1\bin\Debug\Worksheet1.exe
+C:\Users\Matthew\Documents\Visual Studio Works\Worksheet1\Worksheet1\bin\Debug\Worksheet1.pdb
+C:\Users\Matthew\Documents\Visual Studio Works\Worksheet1\Worksheet1\obj\Debug\Worksheet1.exe
+C:\Users\Matthew\Documents\Visual Studio Works\Worksheet1\Worksheet1\obj\Debug\Worksheet1.pdb
