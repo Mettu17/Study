@@ -7,7 +7,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Worksheet1", "Worksheet1\Wo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multiplication Table", "ConsoleApplication1\Multiplication Table.csproj", "{182CEDF6-50F1-45FD-B015-59F751F5D1E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication2", "ConsoleApplication2\ConsoleApplication2.csproj", "{3F99935B-9194-4651-A89D-927B03844474}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Average Age of Student", "ConsoleApplication2\Average Age of Student.csproj", "{3F99935B-9194-4651-A89D-927B03844474}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication3", "ConsoleApplication3\ConsoleApplication3.csproj", "{D3A7C067-D6E2-4ADF-8839-EFFE8DD1DFDF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{3F99935B-9194-4651-A89D-927B03844474}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F99935B-9194-4651-A89D-927B03844474}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F99935B-9194-4651-A89D-927B03844474}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3A7C067-D6E2-4ADF-8839-EFFE8DD1DFDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3A7C067-D6E2-4ADF-8839-EFFE8DD1DFDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3A7C067-D6E2-4ADF-8839-EFFE8DD1DFDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3A7C067-D6E2-4ADF-8839-EFFE8DD1DFDF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

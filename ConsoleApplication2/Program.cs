@@ -27,12 +27,12 @@ namespace ConsoleApplication2
                     
                 }
 
-            Console.WriteLine(student / numberofStudents);
+            Console.WriteLine("The Average Age is {0}", (student / numberofStudents));
 
             Console.ReadLine();
 
 
-
+           
         }
     }
 }
