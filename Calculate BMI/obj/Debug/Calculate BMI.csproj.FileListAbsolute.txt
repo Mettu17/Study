@@ -1,0 +1,5 @@
+C:\Users\Matthew\Documents\Visual Studio Works\Study\Calculate BMI\bin\Debug\Calculate BMI.exe.config
+C:\Users\Matthew\Documents\Visual Studio Works\Study\Calculate BMI\bin\Debug\Calculate BMI.exe
+C:\Users\Matthew\Documents\Visual Studio Works\Study\Calculate BMI\bin\Debug\Calculate BMI.pdb
+C:\Users\Matthew\Documents\Visual Studio Works\Study\Calculate BMI\obj\Debug\Calculate BMI.exe
+C:\Users\Matthew\Documents\Visual Studio Works\Study\Calculate BMI\obj\Debug\Calculate BMI.pdb

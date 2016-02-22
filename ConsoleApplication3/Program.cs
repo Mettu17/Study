@@ -22,7 +22,7 @@ namespace ConsoleApplication3
             while (loop <= userInput)
                 {
 
-                    Console.WriteLine("*");
+                    Console.Write("*");
                     loop++;
                     
                 }

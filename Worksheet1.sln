@@ -3,13 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Worksheet1", "Worksheet1\Worksheet1.csproj", "{65707224-8D07-4383-BA8A-F75704310337}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Average Tempreture", "Worksheet1\Average Tempreture.csproj", "{65707224-8D07-4383-BA8A-F75704310337}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multiplication Table", "ConsoleApplication1\Multiplication Table.csproj", "{182CEDF6-50F1-45FD-B015-59F751F5D1E9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Average Age of Student", "ConsoleApplication2\Average Age of Student.csproj", "{3F99935B-9194-4651-A89D-927B03844474}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication3", "ConsoleApplication3\ConsoleApplication3.csproj", "{D3A7C067-D6E2-4ADF-8839-EFFE8DD1DFDF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enter the ammout of Stars", "ConsoleApplication3\Enter the ammout of Stars.csproj", "{D3A7C067-D6E2-4ADF-8839-EFFE8DD1DFDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Right Angle Triangle", "Right Angle Triangle\Right Angle Triangle.csproj", "{75EBBFC9-211F-4B98-900A-7B98C5963EC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculate BMI", "Calculate BMI\Calculate BMI.csproj", "{EC21E7F7-AEED-4AFD-844A-A59ED0F5C21D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{D3A7C067-D6E2-4ADF-8839-EFFE8DD1DFDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D3A7C067-D6E2-4ADF-8839-EFFE8DD1DFDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D3A7C067-D6E2-4ADF-8839-EFFE8DD1DFDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75EBBFC9-211F-4B98-900A-7B98C5963EC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75EBBFC9-211F-4B98-900A-7B98C5963EC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75EBBFC9-211F-4B98-900A-7B98C5963EC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75EBBFC9-211F-4B98-900A-7B98C5963EC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC21E7F7-AEED-4AFD-844A-A59ED0F5C21D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC21E7F7-AEED-4AFD-844A-A59ED0F5C21D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC21E7F7-AEED-4AFD-844A-A59ED0F5C21D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC21E7F7-AEED-4AFD-844A-A59ED0F5C21D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,6 @@
+C:\Users\Matthew\Documents\Visual Studio Works\Study\Right Angle Triangle\bin\Debug\Right Angle Triangle.exe.config
+C:\Users\Matthew\Documents\Visual Studio Works\Study\Right Angle Triangle\bin\Debug\Right Angle Triangle.exe
+C:\Users\Matthew\Documents\Visual Studio Works\Study\Right Angle Triangle\bin\Debug\Right Angle Triangle.pdb
+C:\Users\Matthew\Documents\Visual Studio Works\Study\Right Angle Triangle\obj\Debug\Right Angle Triangle.csprojResolveAssemblyReference.cache
+C:\Users\Matthew\Documents\Visual Studio Works\Study\Right Angle Triangle\obj\Debug\Right Angle Triangle.exe
+C:\Users\Matthew\Documents\Visual Studio Works\Study\Right Angle Triangle\obj\Debug\Right Angle Triangle.pdb
