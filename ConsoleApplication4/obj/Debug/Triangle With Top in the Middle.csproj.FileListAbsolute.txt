@@ -1,0 +1,6 @@
+C:\Users\Matthew\Documents\Visual Studio Works\Study\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+C:\Users\Matthew\Documents\Visual Studio Works\Study\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\Users\Matthew\Documents\Visual Studio Works\Study\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+C:\Users\Matthew\Documents\Visual Studio Works\Study\ConsoleApplication4\obj\Debug\Triangle With Top in the Middle.csprojResolveAssemblyReference.cache
+C:\Users\Matthew\Documents\Visual Studio Works\Study\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+C:\Users\Matthew\Documents\Visual Studio Works\Study\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
