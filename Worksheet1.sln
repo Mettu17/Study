@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangle With Top in the Mi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes Area of Rec", "Classes Area\Classes Area of Rec.csproj", "{C7FCA460-6D1A-49CD-BAED-1EBC6834DB4A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Corridor Classes + menu", "Corridor Classes + menu\Corridor Classes + menu.csproj", "{36593146-5BC3-4957-AF15-838DF776C458}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{C7FCA460-6D1A-49CD-BAED-1EBC6834DB4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7FCA460-6D1A-49CD-BAED-1EBC6834DB4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7FCA460-6D1A-49CD-BAED-1EBC6834DB4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36593146-5BC3-4957-AF15-838DF776C458}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36593146-5BC3-4957-AF15-838DF776C458}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36593146-5BC3-4957-AF15-838DF776C458}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36593146-5BC3-4957-AF15-838DF776C458}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
