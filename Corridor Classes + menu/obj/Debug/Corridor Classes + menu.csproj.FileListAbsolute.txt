@@ -1,1 +1,2 @@
 C:\Users\Matthew\Documents\Visual Studio Works\Study\Corridor Classes + menu\bin\Debug\Corridor Classes + menu.exe.config
+C:\Users\Matthew\Documents\Visual Studio Works\Study\Corridor Classes + menu\obj\Debug\Corridor Classes + menu.csprojResolveAssemblyReference.cache

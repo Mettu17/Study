@@ -9,20 +9,21 @@ namespace Corridor_Classes___menu
     class Classroom
     {
 
-        public string classroomname;
-        public bool projectoravailable;
-        int computersinclassroom;
+        string _classroomname;
+        bool _projectoravailable;
+        int _computersinclassroom;
+        String[] Computer;
 
         public string Classroomname
         {
             get
             {
-                return classroomname;
+                return _classroomname;
             }
 
             set
             {
-                classroomname = value;
+                _classroomname = value;
             }
         }
 
@@ -30,43 +31,39 @@ namespace Corridor_Classes___menu
         {
             get
             {
-                return projectoravailable;
+                return _projectoravailable;
             }
 
             set
             {
-                projectoravailable = value;
+                _projectoravailable = value;
             }
         }
 
-
-        Computer[] conmputersinclassrom;
-        internal Computer[] Conmputersinclassrom
+        public int Computersinclassroom
         {
             get
             {
-                return conmputersinclassrom;
+                return _computersinclassroom;
             }
 
             set
             {
-                conmputersinclassrom = value;
+                _computersinclassroom = value;
             }
         }
 
-        
-
         public Classroom(String classroom, bool projectoravailable,Computer[] allcomputers)    
             {
-                Classroomname = classroomname;
+            Classroomname = classroomname;
                 Projectoravailable = projectoravailable;
-                computersinclassroom = allcomputers; 
+                Computersinclassroom = allcomputers; 
 
             }
                 
         public  string outputclassroom()
         {
-            return "Name Of Classroom:" + classroomname + "Projector:" + projectoravailable;
+            return "Name Of Classroom:" + _classroomname + "Projector:" + Projectoravailable;
 
         }
 
@@ -75,7 +72,7 @@ namespace Corridor_Classes___menu
         {
             String output = "";
             output += "Name of Classroom: " + Classroomname + " Projector: " + Projectoravailable;
-            foreach(Computer c in Computerinclassroom)
+            foreach(Computer c in Computersinclassroom)
             {
                 output += c;
 
